@@ -1,0 +1,10 @@
+AUTH-SERVICE | INFO | User login successful
+PAYMENT-SERVICE | ERROR | Payment failed
+ORDER-SERVICE | WARNING | Order processing slow
+AUTH-SERVICE | INFO | User logout successful
+DATABASE | ERROR | Database connection failed
+PAYMENT-SERVICE | INFO | Payment completed
+ORDER-SERVICE | WARNING | Stock is low
+AUTH-SERVICE | ERROR | Invalid login attempt
+DATABASE | INFO | Database backup completed
+ORDER-SERVICE | INFO | New order received
